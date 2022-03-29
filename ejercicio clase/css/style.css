@@ -1,0 +1,41 @@
+/*selector de etiqueta*/
+
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*selecto de tipo class*/
+
+.titulo{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: right;
+}
+
+/*crear clase que permita cambias: 
+tamaño de fuente color de fuente, alineacion del texo 
+justificado y tipo de fuente en el parrafo*/
+
+.lorem{
+    font-size: 25px;
+    color: greenyellow;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*selecto de tipo id*/
+#caja1{
+    border: 15px solid green;
+    padding: 30px;
+    background-color: black;
+
+} 
+
+img{
+    width: 50%;
+    height: 50%;
+}
